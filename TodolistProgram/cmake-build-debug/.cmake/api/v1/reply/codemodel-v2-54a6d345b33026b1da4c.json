@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/seungwon-choi/Github/CProject/ToDoListProgram/cmake-build-debug",
-		"source" : "/Users/seungwon-choi/Github/CProject/ToDoListProgram"
+		"build" : "/Users/seungwon-choi/Github/CProject/TodolistProgram/cmake-build-debug",
+		"source" : "/Users/seungwon-choi/Github/CProject/TodolistProgram"
 	},
 	"version" : 
 	{

@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/seungwon-choi/Github/CProject/ToDoListProgram/cmake-build-debug"
+			"value" : "/Users/seungwon-choi/Github/CProject/TodolistProgram/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/seungwon-choi/Github/CProject/ToDoListProgram/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/seungwon-choi/Github/CProject/TodolistProgram/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/seungwon-choi/Github/CProject/ToDoListProgram/cmake-build-debug"
+			"value" : "/Users/seungwon-choi/Github/CProject/TodolistProgram/cmake-build-debug"
 		},
 		{
 			"name" : "TodolistProgram_IS_TOP_LEVEL",
@@ -1055,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/seungwon-choi/Github/CProject/ToDoListProgram"
+			"value" : "/Users/seungwon-choi/Github/CProject/TodolistProgram"
 		}
 	],
 	"kind" : "cache",
